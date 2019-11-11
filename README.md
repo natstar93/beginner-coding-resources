@@ -3,13 +3,16 @@
 ## Online Javascript Tutorials
 
 * [JS for Cats](http://jsforcats.com)
-* [Codeacademy](https://www.codecademy.com/courses/introduction-to-javascript)
+* [Codeacademy](https://www.codecademy.com)
+* [W3 Schools](https://www.w3schools.com)
 
 
-## Free Tuition (London)
+## Free Evening/Weekend Tuition for under represented groups (London)
 
 * [Code First Girls](https://www.codefirstgirls.org.uk)
 * [Codebar](https://codebar.io)
+* [Node Girls](https://nodegirls.com)
+
 
 ## Bootcamps (London)
 
