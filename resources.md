@@ -1,4 +1,4 @@
-# Beginner Coding Resources
+# Coding Resources
 
 ## Online Javascript Tutorials
 
